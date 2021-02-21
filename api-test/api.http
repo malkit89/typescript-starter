@@ -1,0 +1,8 @@
+GET https://3000-lavender-crayfish-6g612uxu.ws-eu03.gitpod.io/
+###
+
+POST https://3000-lavender-crayfish-6g612uxu.ws-eu03.gitpod.io/cats/ HTTP/1.1
+content-type: application/json
+
+{ "name": "malkit", "age": "5", "breed": "Ciao ciao" }
+###
